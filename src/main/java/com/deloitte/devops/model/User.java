@@ -29,7 +29,7 @@ public class User {
 	}
 	
 	/*Phone use case*/
-	
+	/*
 	public void setPhone(String phone) {
 		this.phone = phone;
 	}
@@ -37,7 +37,7 @@ public class User {
 	public String getPhone() {
 		return phone;
 	}
-
+	*/
 	
 	
 	
