@@ -110,12 +110,12 @@
 				</tr>
 				
 <!-- 				Phone use case -->
-				<!--
+				
 				<tr>
 					<td><h6 style="text-align:right; margin-right:5px;">Phone:</h6></td>
 					<td><input style="width:200px;" type="text" name="phone" value="${user.phone}" readonly></td>
 				</tr>
-				-->
+				
 				
 				<tr>			
 					<td><h6 style="text-align:right; margin-right:5px;">Address Line 1:</h6></td>
